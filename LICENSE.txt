@@ -1,0 +1,9 @@
+/*
+	Copyright (c) 2021 Chayanand Nantagittamroght
+	Chayanand Nantagittamroght<Chayanand.Nantagittamroght@gmail.com>
+	
+	All files contained in this program, including source code and plugins, Etc., Are permitted to be studied,
+	Developed, Modified, But not for commercial use without prior notice to the developer.
+	
+	ไฟล์ทั้งหมดที่อยู่ในโปรแกรมนี้รวมถึงซอร์สโค้ดและปลั๊กอิน และอื่นๆ อนุญาติให้นำไปใช้ในเชิงการศึกษา ต่อยอด และแก้ไข แต่ ห้ามนำไปใช้เชิงพาณิชย์โดยไม่แจ้ง ผู้พัฒนาให้ทราบล่วงหน้า
+*/
